@@ -1,0 +1,12 @@
+Part-2
+
+strings
+
+file handling
+
+data structures
+    lists,dictionaries,tuples
+
+manipulating strings and data structures 
+
+counting with dictionaries

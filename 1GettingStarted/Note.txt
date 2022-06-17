@@ -1,0 +1,27 @@
+Part-1
+
+BASIC:
+(getting started)
+
+Control flow
+1. Squeantial statement
+2. conditional statement
+3. store and re-use  (function)
+4. ittration statement
+
+
+Data type (variables)
+1. int
+2. float
+3. string
+4. boolean- True and False
+5. None
+
+
+. if else elif 
+. break continue
+. try expect
+. while for
+. type conversion
+. calling function
+   - inbuilt and user defined
